@@ -1,2 +1,2 @@
 # helooworldwp1
-this is a sample hello world psfx webpart
+this is a sample hello world spfx webpart
